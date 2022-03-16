@@ -13,7 +13,7 @@ public class Ferrari_Car {
 	//🤔 	//Junior_dev.CarModel b=new Junior_dev.CarModel();
 		   //using direct  (Fully Qualified Name) 
 		
-		b.display(); //display() from the type CarModel is not visible change visibility to public 
+		//b.display(); //display() from the type CarModel is not visible change visibility to public 
 		b.speed();
 		
 	}
