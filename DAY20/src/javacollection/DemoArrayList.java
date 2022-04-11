@@ -46,7 +46,7 @@ public class DemoArrayList {
 	}
 	
 	System.out.println("Iterator");
-	Iterator it=al.iterator();
+	Iterator<String> it=al.iterator();
 	while(it.hasNext())
 		{
 			System.out.println(it.next());
